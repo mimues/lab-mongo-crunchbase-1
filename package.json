@@ -1,0 +1,23 @@
+{
+  "name": "lab-mongo-crunchbase-1",
+  "version": "1.0.0",
+  "description": "lab mongo crunchbase 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimues/lab-mongo-crunchbase-1.git"
+  },
+  "author": "Miguel Munoz Estelles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimues/lab-mongo-crunchbase-1/issues"
+  },
+  "homepage": "https://github.com/mimues/lab-mongo-crunchbase-1#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "mongodb": "^2.2.36"
+  }
+}
